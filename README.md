@@ -1,4 +1,6 @@
 # Recognition-and-Machine-Learning
+**请留下你的星星！~**
+
 中国科学院大学研究生课程 模式识别与机器学习
 
 10道选择+8道大题
